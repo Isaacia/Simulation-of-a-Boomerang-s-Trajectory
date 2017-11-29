@@ -1,2 +1,5 @@
 # Simulation-of-a-Boomerang-s-Trajectory
-yau-physics Bronze award 
+
+This Project wins the Brownz metal of S.-T. Yau High School Physics Awards (YHPA)
+To view the paper, open "Physics"
+To view the presentation, open ""
